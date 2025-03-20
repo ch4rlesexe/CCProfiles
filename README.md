@@ -34,7 +34,7 @@ A Discord bot that lets users create, edit, and view personal profiles using mod
 3. **Configure the Bot:**
 
 - Open bot.py.
-- Replace "YOUR_BOT_TOKEN_HERE" with your actual Discord bot token.
+- Replace "YOUR_BOT_TOKEN" with your actual Discord bot token.
 
 4. **Run the Bot:**
 ```bash
